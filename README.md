@@ -34,3 +34,11 @@ Optical Character Recognition (OCR) done using Paycard 3rd party library and Goo
 
        *This should be done in order to run the App (Because of the Google ML Kit Feature)
 
+*Below are sample screenshots from App:
+
+<a href="https://postimg.cc/dZ8jjLNp" target="_blank"><img src="https://i.postimg.cc/dZ8jjLNp/Screenshot-20200719-214157-Card-Info-Reader.jpg" alt="Screenshot-20200719-214157-Card-Info-Reader"/></a><br/><br/>
+
+<a href="https://postimg.cc/PNZyjRfy" target="_blank"><img src="https://i.postimg.cc/PNZyjRfy/Screenshot-20200719-214248-Card-Info-Reader.jpg" alt="Screenshot-20200719-214248-Card-Info-Reader"/></a><br/><br/>
+
+
+
