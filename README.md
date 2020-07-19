@@ -40,5 +40,6 @@ Optical Character Recognition (OCR) done using Paycard 3rd party library and Goo
 
 <a href="https://postimg.cc/PNZyjRfy" target="_blank"><img src="https://i.postimg.cc/PNZyjRfy/Screenshot-20200719-214248-Card-Info-Reader.jpg" alt="Screenshot-20200719-214248-Card-Info-Reader"/></a><br/><br/>
 
+<a href="https://postimg.cc/cg7cQvbj" target="_blank"><img src="https://i.postimg.cc/cg7cQvbj/Screenshot-20200719-214157-Card-Info-Reader.jpg" alt="Screenshot-20200719-214157-Card-Info-Reader"/></a> <a href="https://postimg.cc/8sHHcrWf" target="_blank"><img src="https://i.postimg.cc/8sHHcrWf/Screenshot-20200719-214248-Card-Info-Reader.jpg" alt="Screenshot-20200719-214248-Card-Info-Reader"/></a><br/><br/>
 
 
