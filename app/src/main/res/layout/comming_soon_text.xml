@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/coming_soon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#dddddd"
+        android:layout_marginTop="16dp"
+        android:paddingStart="16dp"
+        android:gravity="center"
+        android:paddingEnd="16dp"
+        android:rotation="-315"
+        android:text="Coming Soon"
+        android:textColor="@color/black"
+        android:textSize="9sp">
+
+    </TextView>
+</layout>
